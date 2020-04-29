@@ -1,0 +1,4 @@
+dict={"x":[i for i in range(11,21)],"y":[i for i in range(21,31)],"y":[i for i in range(31,41)]}
+print("5th value of x:", dict["x"][4])
+print("5th value of y:", dict["x"][4])
+print("5th value of z:", dict["x"][4])
